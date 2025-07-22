@@ -76,7 +76,7 @@ sudo apt install gcc
 
 1. **Clone or download the project**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/SumitLikeCpp/MemoryAllocator.git)
    cd MemoryAllocator
    ```
 
